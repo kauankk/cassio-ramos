@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/fundo_de_tela_do_corinthians_para_android_4s_1024x768.jpg') top right no-repeat,
+        url('img/David_Luiz\,_Cassio\,_Paolo_Guerrero\,_FIFA_Club_World_Cup_2012.jpg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
